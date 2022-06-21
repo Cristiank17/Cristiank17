@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi! My name is Cristian Maldonado. I'm 21 years old  👋
+🔭 I’m currently working on Kuvasz
+
 
 <!--
 **Cristiank17/Cristiank17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
