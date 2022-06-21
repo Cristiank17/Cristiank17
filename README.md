@@ -1,8 +1,10 @@
 ## About Me
 
-* Competitive Programming :four_leaf_clover:
-* Payment Systems Developer :computer:
-* Amateur Basketball Player :basketball:
+* Competitive programmer (JaPyCmonos) 🍀
+* Payment Systems Developer (Kuvasz Solutions SA) 🖥️
+* Amateur Basketball Player (Dallas Mavericks) 🏀
+* Universisty Student Ninth Semester (UECCI) 🎓
+* Where am I from? (Colombia) 🇨🇴
 
 <!--
 **Cristiank17/Cristiank17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
