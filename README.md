@@ -1,8 +1,8 @@
-Hi! My name is Cristian Maldonado. I'm 21 years old  👋
+## About Me
 
-
-🔭 I’m currently working on Kuvasz
-
+* Competitive Programming :four_leaf_clover:
+* Payment Systems Developer :computer:
+* Amateur Basketball Player :basketball:
 
 <!--
 **Cristiank17/Cristiank17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
