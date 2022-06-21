@@ -1,5 +1,7 @@
 Hi! My name is Cristian Maldonado. I'm 21 years old  👋
-\n 🔭 I’m currently working on Kuvasz
+
+
+🔭 I’m currently working on Kuvasz
 
 
 <!--
