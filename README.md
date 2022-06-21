@@ -3,8 +3,8 @@
 * Competitive programmer (JaPyCmonos) 🍀
 * Payment Systems Developer (Kuvasz Solutions SA) 🖥️
 * Amateur Basketball Player (Dallas Mavericks) 🏀
-* Universisty Student Ninth Semester (UECCI) 🎓
-* Where am I from? (Colombia) 🇨🇴
+* 9th Semester College Student (UECCI) 🎓
+* Where am I from? (Colombia) :colombia:
 
 <!--
 **Cristiank17/Cristiank17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
